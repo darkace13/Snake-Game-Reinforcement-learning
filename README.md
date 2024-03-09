@@ -1,1 +1,1 @@
-"# Snake-Game-Reinforcement-learning" 
+This project focuses on implementing reinforcement learning techniques to train an AI agent to play the classic Snake game effectively. It includes a Python implementation of the game and integration of various reinforcement learning algorithms. Experiment with different algorithms such as Q-learning, Deep Q-Networks (DQN), or Policy Gradient methods to train your AI Snake player. Customize parameters for training and game environment settings as you explore the fascinating world of reinforcement learning in gaming.
